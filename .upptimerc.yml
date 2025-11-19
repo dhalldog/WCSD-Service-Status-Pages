@@ -8,7 +8,7 @@ sites:
   - name: Apple
     url: https://www.apple.com/
   - name: Canvas
-    url: https://waukee.instructure.com/
+    url: https://www.instructure.com/
   - name: Jamf Pro
     url: https://waukeecommsd.jamfcloud.com/
   - name: Mosyle
