@@ -23,15 +23,16 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   baseUrl: /WCSD-Service-Status-Pages
-  logoUrl: https://drive.google.com/file/d/1roBlZu_1M5weUk1co8LJ7hp6pSlz3S7V/view?usp=sharing
+  logoUrl: https://github.com/dhalldog/WCSD-Service-Status-Pages/blob/master/assets/WCSD%20Icon%20Color%20PNG.png
   name: "WCSD Service Status Page"
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
-  navbar:
+  introTitle: "**Upptime for Waukee Community School District** is the uptime monitor and status page, for all curriculum and IT services used by the district."
+  introMessage: Scroll through the list to find the service you are experiencing issues with to see if the website is down currently. If you continue experiencing issues with the website make sure to contact your IT department at ticket@waukeeschools.org! 
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: Tickets
+      href: https://ticket.waukeeschools.org/staff/tickets/
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
