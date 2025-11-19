@@ -5,17 +5,25 @@ repo: WCSD-Service-Status-Pages # The name of this repository
 sites:
   - name: Google
     url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: Apple
+    url: https://www.apple.com/
+  - name: Canvas
+    url: https://waukee.instructure.com/
+  - name: Jamf Pro
+    url: https://waukeecommsd.jamfcloud.com/
+  - name: Mosyle
+    url: https://myschool.mosyle.com/#
+  - name: Clever
+    url: https://www.clever.com/
+  - name: 
+    url: 
+  - name: 
+    url: 
+  - name: 
+    url: 
+  - name: 
+    url: 
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
