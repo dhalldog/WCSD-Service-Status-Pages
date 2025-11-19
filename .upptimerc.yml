@@ -26,7 +26,8 @@ status-website:
   logoUrl: https://github.com/dhalldog/WCSD-Service-Status-Pages/blob/master/assets/WCSD%20Icon%20Color%20PNG.png
   name: "WCSD Service Status Page"
   introTitle: "**Upptime for Waukee Community School District** is the uptime monitor and status page, for all curriculum and IT services used by the district."
-  introMessage: Scroll through the list to find the service you are experiencing issues with to see if the website is down currently. If you continue experiencing issues with the website make sure to contact your IT department at ticket@waukeeschools.org! 
+  introMessage: Scroll through the list to find the service you are experiencing issues with to see if the website is down currently. If you continue experiencing issues with the website make sure to contact your IT department at ticket@waukeeschools.org!
+  navbar:
     - title: Status
       href: /
     - title: GitHub
