@@ -33,7 +33,7 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
     - title: Tickets
-      href: https://ticket.waukeeschools.org/staff/tickets/
+      href: https://ticket.waukeeschools.org/tickets/
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
