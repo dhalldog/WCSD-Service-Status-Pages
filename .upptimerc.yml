@@ -23,7 +23,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   baseUrl: /WCSD-Service-Status-Pages
-  logoUrl: https://github.com/dhalldog/WCSD-Service-Status-Pages/blob/master/assets/WCSD.svg
+  logoUrl: https://raw.githubusercontent.com/dhalldog/WCSD-Service-Status-Pages/refs/heads/master/assets/WCSD.svg
   name: "Waukee Community School District"
   introTitle: "Status Page for curriculum services"
   introMessage: Scroll through the list to find the service you are experiencing issues with to see if the website is down currently. If you continue experiencing issues with the website make sure to contact your IT department at ticket@waukeeschools.org!
