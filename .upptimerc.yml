@@ -4,7 +4,7 @@ repo: WCSD-Service-Status-Pages # The name of this repository
 
 sites:
   - name: Adobe Creative Cloud
-    url: https://www.adobe.com/
+    url: https://www.adobe.com/creativecloud.html
   - name: Amazon(AWS)
     url: https://aws.amazon.com/
   - name: Apple
@@ -14,7 +14,7 @@ sites:
   - name: Canvas
     url: https://www.instructure.com/
   - name: ChatGPT
-    url: https://chatgpt.com/
+    url: https://openai.com/
   - name: Claris Connect
     url: https://connect.claris.com/login
   - name: Class Kick
@@ -38,13 +38,13 @@ sites:
   - name: McGraw Hill
     url: https://www.mheducation.com/ 
   - name: Microsoft
-    url: https://www.microsoft.com/
+    url: https://www.microsoft.com/en-us/
   - name: Minga
     url: https://status.minga.io/
   - name: Mosyle
     url: https://myschool.mosyle.com/
   - name: NIM
-    url: https://tools-nim.waukeeschools.org/
+    url: https://tools-nim.waukeeschools.org/auth/login-all
   - name: OKTA
     url: https://waukeeschools.okta.com/
   - name: Pearson
@@ -54,7 +54,7 @@ sites:
   - name: Savvas
     url: https://www.savvas.com/
   - name: WCSD Tickets
-    url: https://ticket.waukeeschools.org/
+    url: https://ticket.waukeeschools.org/staff/tickets/
   - name: WCSD Website
     url: https://www.waukeeschools.org/
   - name: YouTube
