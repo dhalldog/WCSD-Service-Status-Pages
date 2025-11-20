@@ -71,6 +71,8 @@ status-website:
   introTitle: "Status Page for curriculum services"
   introMessage: Scroll through the list to find the service you are experiencing issues with to see if the website is down currently. If you continue experiencing issues with the website make sure to contact your IT department at ticket@waukeeschools.org!
   navbar:
+    - title: Status
+      href: https://github.com/$OWNER/$REPO
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
     - title: Tickets
