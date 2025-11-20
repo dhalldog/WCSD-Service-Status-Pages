@@ -72,7 +72,7 @@ status-website:
   introMessage: Scroll through the list to find the service you are experiencing issues with to see if the website is down currently. If you continue experiencing issues with the website make sure to contact your IT department at ticket@waukeeschools.org!
   navbar:
     - title: Status
-      href: https://dhalldog.github.io/WCSD-Service-Status-Pages
+      href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
     - title: Tickets
