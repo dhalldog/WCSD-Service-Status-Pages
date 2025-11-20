@@ -313,19 +313,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.tools4ever.com.ico",
     "slug": "nim",
     "status": "up",
-    "uptime": "4.00%",
-    "uptimeDay": "4.00%",
-    "uptimeWeek": "4.00%",
-    "uptimeMonth": "4.00%",
-    "uptimeYear": "4.00%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1974,
     "timeDay": 1974,
     "timeWeek": 1974,
     "timeMonth": 1974,
     "timeYear": 1974,
-    "dailyMinutesDown": {
-      "2025-11-20": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "OKTA",
