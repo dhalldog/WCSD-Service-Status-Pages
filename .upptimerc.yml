@@ -5,10 +5,14 @@ repo: WCSD-Service-Status-Pages # The name of this repository
 sites:
   - name: Amazon(AWS)
     url: https://aws.amazon.com/
+  - name: Amplify
+    url: https://amplify.com
   - name: Apple
     url: https://www.apple.com/
   - name: Apple School Manager
     url: https://school.apple.com/#/main/users
+  - name: Canva
+    url: https://www.canva.com/
   - name: Canvas
     url: https://waukee.instructure.com/login
   - name: Claris Connect
@@ -19,6 +23,10 @@ sites:
     url: https://www.clever.com/
   - name: Cloud Flare
     url: https://www.cloudflare.com/
+  - name: Delta Math
+    url: https://www.deltamath.com/
+  - name: EdPuzzle
+    url: https://edpuzzle.com/
   - name: Frontline
     url: https://app.frontlineeducation.com/
   - name: Google
@@ -45,8 +53,12 @@ sites:
     url: https://www.pearson.com/
   - name: PowerSchool
     url: https://waukee.powerschool.com/public/ 
+  - name: Quill
+    url: quill.org
   - name: Savvas
     url: https://www.savvas.com/
+  - name: Seesaw
+    url: https://seesaw.com/
   - name: WCSD Tickets
     url: https://ticket.waukeeschools.org/staff/tickets/
   - name: WCSD Website
@@ -68,7 +80,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/dhalldog/WCSD-Service-Status-Pages/refs/heads/master/assets/WCSD.svg
   theme: ocean
   name: "Waukee Community School District"
-  introTitle: "Status Page for curriculum services"
+  introTitle: "Status Page for the district's online services"
   introMessage: Scroll through the list to find the service you are experiencing issues with to see if the website is down currently. If you continue experiencing issues with the website make sure to contact your IT department at ticket@waukeeschools.org!
   navbar:
     - title: Status
