@@ -51,6 +51,8 @@ sites:
     url: https://ticket.waukeeschools.org/staff/tickets/
   - name: WCSD Website
     url: https://www.waukeeschools.org/
+  - name: Visitor Aware
+    url: https://status.singlewire.com/
   - name: YouTube
     url: https://www.youtube.com/
     
