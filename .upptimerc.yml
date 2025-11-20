@@ -3,8 +3,6 @@ owner: dhalldog # Your GitHub organization or username, where this repository li
 repo: WCSD-Service-Status-Pages # The name of this repository
 
 sites:
-  - name: Adobe Creative Cloud
-    url: https://www.adobe.com/creativecloud.html
   - name: Amazon(AWS)
     url: https://aws.amazon.com/
   - name: Apple
@@ -13,8 +11,6 @@ sites:
     url: https://school.apple.com/#/main/users
   - name: Canvas
     url: https://www.instructure.com/
-  - name: ChatGPT
-    url: https://openai.com/
   - name: Claris Connect
     url: https://connect.claris.com/login
   - name: Class Kick
@@ -37,14 +33,12 @@ sites:
     url: https://mackinvia.com/
   - name: McGraw Hill
     url: https://www.mheducation.com/ 
-  - name: Microsoft
-    url: https://www.microsoft.com/en-us/
   - name: Minga
     url: https://status.minga.io/
   - name: Mosyle
     url: https://myschool.mosyle.com/
   - name: NIM
-    url: https://tools-nim.waukeeschools.org/auth/login-all
+    url: https://www.tools4ever.com/nim/
   - name: OKTA
     url: https://waukeeschools.okta.com/
   - name: Pearson
