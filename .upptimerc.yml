@@ -11,10 +11,6 @@ sites:
     url: https://www.apple.com/
   - name: Apple School Manager
     url: https://school.apple.com/#/main/users
-  - name: Canva
-    url: https://www.canva.com/
-  - name: Canvas
-    url: https://waukee.instructure.com/login
   - name: Claris Connect
     url: https://connect.claris.com/login
   - name: Class Kick
