@@ -492,19 +492,19 @@
     "url": "https://www.waukeeschools.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.waukeeschools.org.ico",
     "slug": "wcsd-website",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 542,
-    "timeDay": 296,
-    "timeWeek": 542,
-    "timeMonth": 542,
-    "timeYear": 542,
+    "status": "up",
+    "uptime": "99.86%",
+    "uptimeDay": "99.70%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
+    "time": 535,
+    "timeDay": 316,
+    "timeWeek": 535,
+    "timeMonth": 535,
+    "timeYear": 535,
     "dailyMinutesDown": {
-      "2025-11-22": 0
+      "2025-11-22": 4
     }
   },
   {
