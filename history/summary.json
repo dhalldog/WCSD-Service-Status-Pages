@@ -348,19 +348,19 @@
     "url": "https://www.tools4ever.com/nim/",
     "icon": "https://icons.duckduckgo.com/ip3/www.tools4ever.com.ico",
     "slug": "nim",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 819,
-    "timeDay": 321,
-    "timeWeek": 480,
-    "timeMonth": 819,
-    "timeYear": 819,
+    "status": "up",
+    "uptime": "99.87%",
+    "uptimeDay": "98.90%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
+    "time": 845,
+    "timeDay": 732,
+    "timeWeek": 599,
+    "timeMonth": 845,
+    "timeYear": 845,
     "dailyMinutesDown": {
-      "2025-11-29": 0
+      "2025-11-29": 16
     }
   },
   {
