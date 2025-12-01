@@ -312,19 +312,19 @@
     "url": "https://status.minga.io/",
     "icon": "https://icons.duckduckgo.com/ip3/status.minga.io.ico",
     "slug": "minga",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1164,
-    "timeDay": 379,
-    "timeWeek": 956,
-    "timeMonth": 1164,
-    "timeYear": 1164,
+    "status": "up",
+    "uptime": "99.79%",
+    "uptimeDay": "97.59%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.79%",
+    "time": 1154,
+    "timeDay": 511,
+    "timeWeek": 936,
+    "timeMonth": 1154,
+    "timeYear": 1154,
     "dailyMinutesDown": {
-      "2025-12-01": 0
+      "2025-12-01": 35
     }
   },
   {
@@ -521,19 +521,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.singlewire.com.ico",
     "slug": "visitor-aware",
     "status": "up",
-    "uptime": "99.93%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 408,
     "timeDay": 208,
     "timeWeek": 320,
     "timeMonth": 408,
     "timeYear": 408,
-    "dailyMinutesDown": {
-      "2025-12-01": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "YouTube",
