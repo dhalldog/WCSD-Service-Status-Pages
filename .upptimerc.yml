@@ -53,6 +53,8 @@ sites:
     url: quill.org
   - name: Savvas
     url: https://www.savvas.com/
+  - name: Securly
+    url: https://securly.status.io/  
   - name: Seesaw
     url: https://seesaw.com/
   - name: WCSD Tickets
