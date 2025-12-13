@@ -211,19 +211,19 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.94%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 202,
-    "timeDay": 1097,
-    "timeWeek": 733,
-    "timeMonth": 202,
-    "timeYear": 202,
+    "time": 200,
+    "timeDay": 756,
+    "timeWeek": 660,
+    "timeMonth": 200,
+    "timeYear": 200,
     "dailyMinutesDown": {
-      "2025-12-13": 0
+      "2025-12-13": 15
     }
   },
   {
