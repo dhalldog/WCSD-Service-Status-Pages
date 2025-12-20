@@ -114,9 +114,9 @@
     "url": "https://www.clever.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.clever.com.ico",
     "slug": "clever",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -125,7 +125,9 @@
     "timeWeek": 193,
     "timeMonth": 251,
     "timeYear": 249,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-20": 0
+    }
   },
   {
     "name": "Cloud Flare",
@@ -368,19 +370,19 @@
     "url": "https://www.tools4ever.com/nim/",
     "icon": "https://icons.duckduckgo.com/ip3/www.tools4ever.com.ico",
     "slug": "nim",
-    "status": "down",
-    "uptime": "99.92%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
-    "time": 944,
-    "timeDay": 330,
-    "timeWeek": 881,
-    "timeMonth": 944,
-    "timeYear": 944,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 962,
+    "timeDay": 896,
+    "timeWeek": 1009,
+    "timeMonth": 962,
+    "timeYear": 962,
     "dailyMinutesDown": {
-      "2025-12-20": 1,
+      "2025-12-20": 10,
       "2025-12-07": 20,
       "2025-11-29": 16
     }
