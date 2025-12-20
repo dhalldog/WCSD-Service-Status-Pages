@@ -13,7 +13,7 @@
     "time": 308,
     "timeDay": 242,
     "timeWeek": 171,
-    "timeMonth": 308,
+    "timeMonth": 352,
     "timeYear": 308,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 281,
     "timeDay": 259,
     "timeWeek": 333,
-    "timeMonth": 281,
+    "timeMonth": 286,
     "timeYear": 281,
     "dailyMinutesDown": {
       "2025-11-26": 25
@@ -51,7 +51,7 @@
     "time": 136,
     "timeDay": 240,
     "timeWeek": 112,
-    "timeMonth": 137,
+    "timeMonth": 134,
     "timeYear": 136,
     "dailyMinutesDown": {}
   },
@@ -69,7 +69,7 @@
     "time": 239,
     "timeDay": 391,
     "timeWeek": 188,
-    "timeMonth": 239,
+    "timeMonth": 224,
     "timeYear": 239,
     "dailyMinutesDown": {}
   },
@@ -87,7 +87,7 @@
     "time": 313,
     "timeDay": 386,
     "timeWeek": 310,
-    "timeMonth": 313,
+    "timeMonth": 316,
     "timeYear": 313,
     "dailyMinutesDown": {}
   },
@@ -105,7 +105,7 @@
     "time": 160,
     "timeDay": 183,
     "timeWeek": 142,
-    "timeMonth": 160,
+    "timeMonth": 155,
     "timeYear": 160,
     "dailyMinutesDown": {}
   },
@@ -115,19 +115,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.clever.com.ico",
     "slug": "clever",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 249,
     "timeDay": 228,
     "timeWeek": 200,
-    "timeMonth": 251,
+    "timeMonth": 245,
     "timeYear": 249,
-    "dailyMinutesDown": {
-      "2025-12-20": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Cloud Flare",
@@ -143,7 +141,7 @@
     "time": 755,
     "timeDay": 433,
     "timeWeek": 385,
-    "timeMonth": 755,
+    "timeMonth": 623,
     "timeYear": 755,
     "dailyMinutesDown": {
       "2025-12-11": 18,
@@ -164,7 +162,7 @@
     "time": 212,
     "timeDay": 265,
     "timeWeek": 169,
-    "timeMonth": 212,
+    "timeMonth": 214,
     "timeYear": 212,
     "dailyMinutesDown": {
       "2025-12-05": 20
@@ -184,7 +182,7 @@
     "time": 170,
     "timeDay": 152,
     "timeWeek": 141,
-    "timeMonth": 170,
+    "timeMonth": 169,
     "timeYear": 170,
     "dailyMinutesDown": {
       "2025-12-02": 33
@@ -204,7 +202,7 @@
     "time": 205,
     "timeDay": 234,
     "timeWeek": 163,
-    "timeMonth": 205,
+    "timeMonth": 203,
     "timeYear": 205,
     "dailyMinutesDown": {}
   },
@@ -222,7 +220,7 @@
     "time": 216,
     "timeDay": 1963,
     "timeWeek": 325,
-    "timeMonth": 230,
+    "timeMonth": 290,
     "timeYear": 216,
     "dailyMinutesDown": {
       "2025-12-13": 15
@@ -242,7 +240,7 @@
     "time": 355,
     "timeDay": 365,
     "timeWeek": 330,
-    "timeMonth": 361,
+    "timeMonth": 353,
     "timeYear": 355,
     "dailyMinutesDown": {
       "2025-12-02": 33
@@ -262,7 +260,7 @@
     "time": 351,
     "timeDay": 465,
     "timeWeek": 374,
-    "timeMonth": 351,
+    "timeMonth": 366,
     "timeYear": 351,
     "dailyMinutesDown": {}
   },
@@ -280,7 +278,7 @@
     "time": 1127,
     "timeDay": 1697,
     "timeWeek": 1588,
-    "timeMonth": 1127,
+    "timeMonth": 1083,
     "timeYear": 1127,
     "dailyMinutesDown": {
       "2025-12-02": 33
@@ -300,7 +298,7 @@
     "time": 633,
     "timeDay": 252,
     "timeWeek": 400,
-    "timeMonth": 633,
+    "timeMonth": 634,
     "timeYear": 633,
     "dailyMinutesDown": {}
   },
@@ -312,13 +310,13 @@
     "status": "up",
     "uptime": "99.88%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.82%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.88%",
     "time": 531,
     "timeDay": 383,
-    "timeWeek": 1423,
-    "timeMonth": 531,
+    "timeWeek": 306,
+    "timeMonth": 598,
     "timeYear": 531,
     "dailyMinutesDown": {
       "2025-12-13": 18,
@@ -330,18 +328,19 @@
     "url": "https://status.minga.io/",
     "icon": "https://icons.duckduckgo.com/ip3/status.minga.io.ico",
     "slug": "minga",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.63%",
-    "uptimeMonth": "99.71%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.70%",
     "uptimeYear": "99.71%",
     "time": 895,
     "timeDay": 832,
     "timeWeek": 516,
-    "timeMonth": 935,
+    "timeMonth": 611,
     "timeYear": 895,
     "dailyMinutesDown": {
+      "2025-12-20": 2,
       "2025-12-17": 38,
       "2025-12-02": 33,
       "2025-12-01": 58
@@ -361,7 +360,7 @@
     "time": 7378,
     "timeDay": 181,
     "timeWeek": 8881,
-    "timeMonth": 7553,
+    "timeMonth": 6836,
     "timeYear": 7378,
     "dailyMinutesDown": {}
   },
@@ -379,7 +378,7 @@
     "time": 962,
     "timeDay": 896,
     "timeWeek": 1009,
-    "timeMonth": 962,
+    "timeMonth": 973,
     "timeYear": 962,
     "dailyMinutesDown": {
       "2025-12-07": 20,
@@ -400,7 +399,7 @@
     "time": 404,
     "timeDay": 454,
     "timeWeek": 399,
-    "timeMonth": 404,
+    "timeMonth": 417,
     "timeYear": 404,
     "dailyMinutesDown": {}
   },
@@ -418,7 +417,7 @@
     "time": 601,
     "timeDay": 459,
     "timeWeek": 769,
-    "timeMonth": 601,
+    "timeMonth": 548,
     "timeYear": 601,
     "dailyMinutesDown": {}
   },
@@ -436,7 +435,7 @@
     "time": 321,
     "timeDay": 287,
     "timeWeek": 302,
-    "timeMonth": 321,
+    "timeMonth": 298,
     "timeYear": 321,
     "dailyMinutesDown": {}
   },
@@ -454,7 +453,7 @@
     "time": 1525,
     "timeDay": 1061,
     "timeWeek": 857,
-    "timeMonth": 1525,
+    "timeMonth": 1552,
     "timeYear": 1525,
     "dailyMinutesDown": {}
   },
@@ -464,15 +463,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.savvas.com.ico",
     "slug": "savvas",
     "status": "up",
-    "uptime": "99.92%",
+    "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
     "time": 459,
     "timeDay": 402,
     "timeWeek": 453,
-    "timeMonth": 459,
+    "timeMonth": 435,
     "timeYear": 459,
     "dailyMinutesDown": {
       "2025-12-02": 32
@@ -510,7 +509,7 @@
     "time": 282,
     "timeDay": 218,
     "timeWeek": 238,
-    "timeMonth": 282,
+    "timeMonth": 285,
     "timeYear": 282,
     "dailyMinutesDown": {
       "2025-12-08": 41,
@@ -531,7 +530,7 @@
     "time": 1025,
     "timeDay": 932,
     "timeWeek": 863,
-    "timeMonth": 1025,
+    "timeMonth": 959,
     "timeYear": 1025,
     "dailyMinutesDown": {
       "2025-12-05": 20,
@@ -544,15 +543,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.waukeeschools.org.ico",
     "slug": "wcsd-website",
     "status": "up",
-    "uptime": "99.55%",
+    "uptime": "99.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.55%",
-    "uptimeYear": "99.55%",
+    "uptimeMonth": "99.56%",
+    "uptimeYear": "99.56%",
     "time": 475,
     "timeDay": 497,
     "timeWeek": 499,
-    "timeMonth": 475,
+    "timeMonth": 439,
     "timeYear": 475,
     "dailyMinutesDown": {
       "2025-12-12": 21,
@@ -569,18 +568,19 @@
     "url": "https://status.singlewire.com/",
     "icon": "https://icons.duckduckgo.com/ip3/status.singlewire.com.ico",
     "slug": "visitor-aware",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.87%",
     "time": 417,
     "timeDay": 387,
     "timeWeek": 408,
-    "timeMonth": 417,
+    "timeMonth": 398,
     "timeYear": 417,
     "dailyMinutesDown": {
+      "2025-12-20": 0,
       "2025-12-12": 23,
       "2025-12-02": 32
     }
@@ -599,7 +599,7 @@
     "time": 302,
     "timeDay": 303,
     "timeWeek": 265,
-    "timeMonth": 302,
+    "timeMonth": 294,
     "timeYear": 302,
     "dailyMinutesDown": {}
   }
