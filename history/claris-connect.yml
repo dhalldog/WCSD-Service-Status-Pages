@@ -1,7 +1,7 @@
 url: https://connect.claris.com/login
-status: down
-code: 503
-responseTime: 428
-lastUpdated: 2025-12-30T22:14:56.848Z
+status: up
+code: 200
+responseTime: 287
+lastUpdated: 2025-12-30T22:34:54.718Z
 startTime: 2025-11-20T14:46:15.188Z
 generator: Upptime <https://github.com/upptime/upptime>
