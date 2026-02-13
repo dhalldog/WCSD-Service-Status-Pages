@@ -1,7 +1,7 @@
 url: https://status.singlewire.com/
-status: down
-code: 503
-responseTime: 4099
-lastUpdated: 2026-02-13T09:39:42.557Z
+status: up
+code: 200
+responseTime: 1316
+lastUpdated: 2026-02-13T10:23:04.669Z
 startTime: 2025-11-20T15:15:11.046Z
 generator: Upptime <https://github.com/upptime/upptime>
