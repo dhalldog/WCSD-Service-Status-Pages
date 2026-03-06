@@ -70,19 +70,19 @@
     "url": "https://school.apple.com/#/main/users",
     "icon": "https://icons.duckduckgo.com/ip3/school.apple.com.ico",
     "slug": "apple-school-manager",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "98.19%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.98%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "96.68%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.97%",
     "time": 232,
-    "timeDay": 218,
-    "timeWeek": 308,
-    "timeMonth": 248,
+    "timeDay": 193,
+    "timeWeek": 290,
+    "timeMonth": 245,
     "timeYear": 232,
     "dailyMinutesDown": {
-      "2026-03-06": 26
+      "2026-03-06": 48
     }
   },
   {
