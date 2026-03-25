@@ -1,7 +1,7 @@
 url: https://waukeecommsd.jamfcloud.com/
-status: up
-code: 200
-responseTime: 278
-lastUpdated: 2026-03-24T23:28:01.888Z
+status: down
+code: 403
+responseTime: 202
+lastUpdated: 2026-03-25T20:00:15.758Z
 startTime: 2025-11-19T21:12:56.579Z
 generator: Upptime <https://github.com/upptime/upptime>
