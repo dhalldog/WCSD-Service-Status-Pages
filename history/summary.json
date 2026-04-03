@@ -517,19 +517,19 @@
     "url": "quill.org",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "quill",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 988,
-    "timeDay": 778,
-    "timeWeek": 725,
-    "timeMonth": 664,
-    "timeYear": 988,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "96.71%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.98%",
+    "time": 984,
+    "timeDay": 621,
+    "timeWeek": 693,
+    "timeMonth": 658,
+    "timeYear": 984,
     "dailyMinutesDown": {
-      "2026-04-03": 0
+      "2026-04-03": 47
     }
   },
   {
