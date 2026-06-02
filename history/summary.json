@@ -25,11 +25,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/amplify.com.ico",
     "slug": "amplify",
     "status": "down",
-    "uptime": "99.78%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.78%",
+    "uptime": "99.74%",
+    "uptimeDay": "91.40%",
+    "uptimeWeek": "98.77%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.74%",
     "time": 241,
     "timeDay": 107,
     "timeWeek": 124,
@@ -49,7 +49,7 @@
       "2026-03-25": 41,
       "2026-04-06": 53,
       "2026-04-11": 69,
-      "2026-06-02": 2
+      "2026-06-02": 124
     }
   },
   {
@@ -152,11 +152,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.cloudflare.com.ico",
     "slug": "cloud-flare",
     "status": "up",
-    "uptime": "91.28%",
+    "uptime": "91.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "91.28%",
+    "uptimeYear": "91.29%",
     "time": 468,
     "timeDay": 263,
     "timeWeek": 404,
@@ -214,11 +214,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/edpuzzle.com.ico",
     "slug": "ed-puzzle",
     "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.94%",
+    "uptime": "99.90%",
+    "uptimeDay": "91.40%",
+    "uptimeWeek": "98.77%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.90%",
     "time": 166,
     "timeDay": 62,
     "timeWeek": 126,
@@ -229,7 +229,7 @@
       "2026-02-11": 41,
       "2026-03-24": 47,
       "2026-03-25": 41,
-      "2026-06-02": 2
+      "2026-06-02": 124
     }
   },
   {
@@ -280,11 +280,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/waukeecommsd.jamfcloud.com.ico",
     "slug": "jamf-pro",
     "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.93%",
+    "uptime": "99.89%",
+    "uptimeDay": "91.42%",
+    "uptimeWeek": "98.77%",
+    "uptimeMonth": "99.58%",
+    "uptimeYear": "99.89%",
     "time": 377,
     "timeDay": 477,
     "timeWeek": 490,
@@ -295,7 +295,7 @@
       "2026-03-24": 47,
       "2026-03-25": 41,
       "2026-05-24": 61,
-      "2026-06-02": 2
+      "2026-06-02": 124
     }
   },
   {
@@ -322,11 +322,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/learningally.org.ico",
     "slug": "learning-ally",
     "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.91%",
+    "uptime": "99.87%",
+    "uptimeDay": "91.43%",
+    "uptimeWeek": "98.78%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.87%",
     "time": 1237,
     "timeDay": 912,
     "timeWeek": 838,
@@ -339,7 +339,7 @@
       "2026-03-24": 47,
       "2026-03-25": 41,
       "2026-04-15": 62,
-      "2026-06-02": 2
+      "2026-06-02": 123
     }
   },
   {
@@ -370,11 +370,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.mheducation.com.ico",
     "slug": "mc-graw-hill",
     "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.95%",
+    "uptime": "99.91%",
+    "uptimeDay": "91.44%",
+    "uptimeWeek": "98.78%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.91%",
     "time": 381,
     "timeDay": 1223,
     "timeWeek": 498,
@@ -385,7 +385,7 @@
       "2025-12-13": 18,
       "2026-03-24": 47,
       "2026-03-25": 41,
-      "2026-06-02": 2
+      "2026-06-02": 123
     }
   },
   {
@@ -394,11 +394,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.minga.io.ico",
     "slug": "minga",
     "status": "down",
-    "uptime": "99.84%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.84%",
+    "uptime": "99.79%",
+    "uptimeDay": "91.46%",
+    "uptimeWeek": "98.78%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.79%",
     "time": 690,
     "timeDay": 1038,
     "timeWeek": 637,
@@ -413,7 +413,7 @@
       "2026-03-24": 47,
       "2026-03-25": 41,
       "2026-04-09": 75,
-      "2026-06-02": 1
+      "2026-06-02": 123
     }
   },
   {
@@ -571,11 +571,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/securly.status.io.ico",
     "slug": "securly",
     "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.92%",
+    "uptimeDay": "91.49%",
+    "uptimeWeek": "98.78%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.92%",
     "time": 260,
     "timeDay": 171,
     "timeWeek": 247,
@@ -584,7 +584,7 @@
     "dailyMinutesDown": {
       "2026-03-24": 47,
       "2026-03-25": 41,
-      "2026-06-02": 1
+      "2026-06-02": 122
     }
   },
   {
@@ -728,11 +728,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.singlewire.com.ico",
     "slug": "visitor-aware",
     "status": "down",
-    "uptime": "99.89%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.89%",
+    "uptime": "99.85%",
+    "uptimeDay": "91.50%",
+    "uptimeWeek": "98.79%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.85%",
     "time": 519,
     "timeDay": 706,
     "timeWeek": 436,
@@ -746,7 +746,7 @@
       "2026-03-24": 47,
       "2026-03-25": 41,
       "2026-04-09": 75,
-      "2026-06-02": 1
+      "2026-06-02": 122
     }
   },
   {
