@@ -1,7 +1,7 @@
 url: https://status.minga.io/
-status: down
-code: 405
-responseTime: 24
-lastUpdated: 2026-06-04T22:50:09.464Z
+status: up
+code: 200
+responseTime: 760
+lastUpdated: 2026-06-04T23:50:09.957Z
 startTime: 2025-11-19T21:21:58.947Z
 generator: Upptime <https://github.com/upptime/upptime>
