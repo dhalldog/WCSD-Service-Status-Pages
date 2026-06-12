@@ -1,7 +1,7 @@
 url: https://securly.status.io/
-status: up
-code: 200
-responseTime: 220
-lastUpdated: 2026-06-12T00:16:25.327Z
+status: down
+code: 403
+responseTime: 20
+lastUpdated: 2026-06-12T10:54:12.673Z
 startTime: 2025-12-01T14:16:13.042Z
 generator: Upptime <https://github.com/upptime/upptime>
