@@ -708,17 +708,17 @@
     "url": "https://ticket.waukeeschools.org/staff/tickets/",
     "icon": "https://icons.duckduckgo.com/ip3/ticket.waukeeschools.org.ico",
     "slug": "wcsd-tickets",
-    "status": "down",
-    "uptime": "99.80%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.80%",
-    "time": 857,
-    "timeDay": 573,
-    "timeWeek": 511,
-    "timeMonth": 599,
-    "timeYear": 857,
+    "status": "up",
+    "uptime": "99.78%",
+    "uptimeDay": "95.22%",
+    "uptimeWeek": "99.32%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.78%",
+    "time": 856,
+    "timeDay": 654,
+    "timeWeek": 539,
+    "timeMonth": 603,
+    "timeYear": 856,
     "dailyMinutesDown": {
       "2025-11-21": 19,
       "2025-12-05": 20,
@@ -729,7 +729,7 @@
       "2026-05-22": 157,
       "2026-05-27": 181,
       "2026-05-31": 113,
-      "2026-07-09": 6
+      "2026-07-09": 69
     }
   },
   {
@@ -737,16 +737,16 @@
     "url": "https://www.waukeeschools.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.waukeeschools.org.ico",
     "slug": "wcsd-website",
-    "status": "down",
-    "uptime": "95.52%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "95.52%",
+    "status": "up",
+    "uptime": "95.50%",
+    "uptimeDay": "95.56%",
+    "uptimeWeek": "99.37%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "95.50%",
     "time": 428,
-    "timeDay": 309,
-    "timeWeek": 309,
-    "timeMonth": 349,
+    "timeDay": 441,
+    "timeWeek": 342,
+    "timeMonth": 356,
     "timeYear": 428,
     "dailyMinutesDown": {
       "2025-11-29": 22,
@@ -804,7 +804,7 @@
       "2026-05-22": 152,
       "2026-05-27": 176,
       "2026-05-31": 108,
-      "2026-07-09": 1
+      "2026-07-09": 64
     }
   },
   {
