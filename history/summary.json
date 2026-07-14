@@ -25,15 +25,15 @@
     "url": "https://amplify.com",
     "icon": "https://icons.duckduckgo.com/ip3/amplify.com.ico",
     "slug": "amplify",
-    "status": "down",
-    "uptime": "97.80%",
-    "uptimeDay": "86.25%",
-    "uptimeWeek": "89.19%",
-    "uptimeMonth": "90.12%",
-    "uptimeYear": "97.80%",
+    "status": "up",
+    "uptime": "97.78%",
+    "uptimeDay": "81.82%",
+    "uptimeWeek": "88.55%",
+    "uptimeMonth": "89.97%",
+    "uptimeYear": "97.78%",
     "time": 213,
-    "timeDay": 84,
-    "timeWeek": 321,
+    "timeDay": 110,
+    "timeWeek": 316,
     "timeMonth": 189,
     "timeYear": 213,
     "dailyMinutesDown": {
@@ -81,7 +81,7 @@
       "2026-07-11": 111,
       "2026-07-12": 473,
       "2026-07-13": 68,
-      "2026-07-14": 130
+      "2026-07-14": 194
     }
   },
   {
