@@ -13,7 +13,7 @@
     "time": 207,
     "timeDay": 113,
     "timeWeek": 235,
-    "timeMonth": 175,
+    "timeMonth": 174,
     "timeYear": 207,
     "dailyMinutesDown": {
       "2026-02-19": 60,
@@ -35,7 +35,7 @@
     "time": 220,
     "timeDay": 157,
     "timeWeek": 162,
-    "timeMonth": 228,
+    "timeMonth": 229,
     "timeYear": 220,
     "dailyMinutesDown": {
       "2026-06-04": 66,
@@ -414,17 +414,17 @@
     "url": "https://mackinvia.com/",
     "icon": "https://icons.duckduckgo.com/ip3/mackinvia.com.ico",
     "slug": "mackin-via",
-    "status": "down",
-    "uptime": "99.72%",
-    "uptimeDay": "96.52%",
-    "uptimeWeek": "99.50%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.72%",
-    "time": 702,
-    "timeDay": 447,
-    "timeWeek": 522,
-    "timeMonth": 473,
-    "timeYear": 702,
+    "status": "up",
+    "uptime": "99.69%",
+    "uptimeDay": "90.11%",
+    "uptimeWeek": "98.59%",
+    "uptimeMonth": "99.67%",
+    "uptimeYear": "99.69%",
+    "time": 701,
+    "timeDay": 485,
+    "timeWeek": 526,
+    "timeMonth": 476,
+    "timeYear": 701,
     "dailyMinutesDown": {
       "2026-01-08": 20,
       "2026-01-30": 113,
@@ -435,7 +435,7 @@
       "2026-06-14": 113,
       "2026-06-19": 309,
       "2026-08-11": 50,
-      "2026-08-12": 1
+      "2026-08-12": 93
     }
   },
   {
