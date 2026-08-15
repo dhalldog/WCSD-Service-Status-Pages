@@ -26,19 +26,18 @@
     "url": "https://amplify.com",
     "icon": "https://icons.duckduckgo.com/ip3/amplify.com.ico",
     "slug": "amplify",
-    "status": "up",
-    "uptime": "97.76%",
-    "uptimeDay": "86.39%",
-    "uptimeWeek": "93.14%",
+    "status": "down",
+    "uptime": "97.78%",
+    "uptimeDay": "86.35%",
+    "uptimeWeek": "93.13%",
     "uptimeMonth": "92.49%",
-    "uptimeYear": "97.76%",
+    "uptimeYear": "97.78%",
     "time": 218,
-    "timeDay": 180,
-    "timeWeek": 156,
-    "timeMonth": 241,
+    "timeDay": 164,
+    "timeWeek": 153,
+    "timeMonth": 240,
     "timeYear": 218,
     "dailyMinutesDown": {
-      "2026-06-06": 64,
       "2026-06-07": 62,
       "2026-06-12": 182,
       "2026-06-13": 228,
@@ -91,7 +90,7 @@
       "2026-08-11": 51,
       "2026-08-12": 45,
       "2026-08-14": 107,
-      "2026-08-15": 176
+      "2026-08-15": 177
     }
   },
   {
@@ -736,9 +735,9 @@
     "slug": "wcsd-tickets",
     "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "98.00%",
-    "uptimeWeek": "99.05%",
-    "uptimeMonth": "99.50%",
+    "uptimeDay": "98.91%",
+    "uptimeWeek": "99.18%",
+    "uptimeMonth": "99.53%",
     "uptimeYear": "99.74%",
     "time": 822,
     "timeDay": 679,
@@ -759,7 +758,7 @@
       "2026-07-12": 40,
       "2026-07-20": 123,
       "2026-08-14": 67,
-      "2026-08-15": 29
+      "2026-08-15": 16
     }
   },
   {
@@ -768,11 +767,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.waukeeschools.org.ico",
     "slug": "wcsd-website",
     "status": "up",
-    "uptime": "96.07%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.71%",
-    "uptimeYear": "96.07%",
+    "uptime": "96.08%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "96.08%",
     "time": 420,
     "timeDay": 488,
     "timeWeek": 391,
@@ -836,8 +835,7 @@
       "2026-05-31": 108,
       "2026-07-09": 64,
       "2026-07-12": 36,
-      "2026-07-20": 118,
-      "2026-08-15": 8
+      "2026-07-20": 118
     }
   },
   {
