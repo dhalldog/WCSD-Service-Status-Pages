@@ -732,16 +732,16 @@
     "url": "https://ticket.waukeeschools.org/staff/tickets/",
     "icon": "https://icons.duckduckgo.com/ip3/ticket.waukeeschools.org.ico",
     "slug": "wcsd-tickets",
-    "status": "down",
-    "uptime": "99.73%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "98.34%",
-    "uptimeMonth": "99.34%",
-    "uptimeYear": "99.73%",
+    "status": "up",
+    "uptime": "99.72%",
+    "uptimeDay": "98.58%",
+    "uptimeWeek": "98.14%",
+    "uptimeMonth": "99.29%",
+    "uptimeYear": "99.72%",
     "time": 818,
-    "timeDay": 398,
-    "timeWeek": 653,
-    "timeMonth": 661,
+    "timeDay": 498,
+    "timeWeek": 656,
+    "timeMonth": 662,
     "timeYear": 818,
     "dailyMinutesDown": {
       "2025-11-21": 19,
@@ -759,7 +759,7 @@
       "2026-08-14": 67,
       "2026-08-15": 16,
       "2026-08-17": 84,
-      "2026-08-20": 1
+      "2026-08-20": 21
     }
   },
   {
