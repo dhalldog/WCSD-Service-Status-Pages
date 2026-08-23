@@ -27,17 +27,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/amplify.com.ico",
     "slug": "amplify",
     "status": "up",
-    "uptime": "98.29%",
-    "uptimeDay": "92.84%",
-    "uptimeWeek": "91.81%",
-    "uptimeMonth": "92.78%",
-    "uptimeYear": "98.29%",
+    "uptime": "98.28%",
+    "uptimeDay": "95.03%",
+    "uptimeWeek": "91.93%",
+    "uptimeMonth": "92.99%",
+    "uptimeYear": "98.28%",
     "time": 210,
-    "timeDay": 125,
-    "timeWeek": 138,
-    "timeMonth": 194,
+    "timeDay": 126,
+    "timeWeek": 141,
+    "timeMonth": 195,
     "timeYear": 210,
     "dailyMinutesDown": {
+      "2026-06-29": 49,
       "2026-06-30": 333,
       "2026-07-02": 172,
       "2026-07-04": 378,
@@ -81,7 +82,7 @@
       "2026-08-20": 57,
       "2026-08-21": 271,
       "2026-08-22": 139,
-      "2026-08-23": 68
+      "2026-08-23": 55
     }
   },
   {
@@ -726,17 +727,17 @@
     "url": "https://ticket.waukeeschools.org/staff/tickets/",
     "icon": "https://icons.duckduckgo.com/ip3/ticket.waukeeschools.org.ico",
     "slug": "wcsd-tickets",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.91%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "97.90%",
     "uptimeMonth": "99.33%",
     "uptimeYear": "99.70%",
-    "time": 820,
-    "timeDay": 284,
-    "timeWeek": 792,
-    "timeMonth": 723,
-    "timeYear": 820,
+    "time": 819,
+    "timeDay": 361,
+    "timeWeek": 771,
+    "timeMonth": 716,
+    "timeYear": 819,
     "dailyMinutesDown": {
       "2025-11-21": 19,
       "2025-12-05": 20,
@@ -754,7 +755,8 @@
       "2026-08-15": 16,
       "2026-08-17": 84,
       "2026-08-20": 105,
-      "2026-08-21": 22
+      "2026-08-21": 22,
+      "2026-08-23": 1
     }
   },
   {
