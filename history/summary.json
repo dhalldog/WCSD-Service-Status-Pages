@@ -13,7 +13,7 @@
     "time": 207,
     "timeDay": 278,
     "timeWeek": 188,
-    "timeMonth": 203,
+    "timeMonth": 205,
     "timeYear": 207,
     "dailyMinutesDown": {
       "2026-02-19": 60,
@@ -26,16 +26,16 @@
     "url": "https://amplify.com",
     "icon": "https://icons.duckduckgo.com/ip3/amplify.com.ico",
     "slug": "amplify",
-    "status": "down",
-    "uptime": "98.20%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "96.40%",
-    "uptimeMonth": "89.34%",
-    "uptimeYear": "98.20%",
+    "status": "up",
+    "uptime": "98.18%",
+    "uptimeDay": "91.65%",
+    "uptimeWeek": "95.21%",
+    "uptimeMonth": "89.08%",
+    "uptimeYear": "98.18%",
     "time": 204,
-    "timeDay": 88,
-    "timeWeek": 122,
-    "timeMonth": 152,
+    "timeDay": 103,
+    "timeWeek": 123,
+    "timeMonth": 149,
     "timeYear": 204,
     "dailyMinutesDown": {
       "2026-07-18": 60,
@@ -84,7 +84,7 @@
       "2026-09-11": 111,
       "2026-09-13": 15,
       "2026-09-15": 237,
-      "2026-09-17": 1
+      "2026-09-17": 120
     }
   },
   {
@@ -101,7 +101,7 @@
     "time": 180,
     "timeDay": 226,
     "timeWeek": 145,
-    "timeMonth": 138,
+    "timeMonth": 137,
     "timeYear": 180,
     "dailyMinutesDown": {}
   },
@@ -119,7 +119,7 @@
     "time": 233,
     "timeDay": 167,
     "timeWeek": 335,
-    "timeMonth": 226,
+    "timeMonth": 228,
     "timeYear": 233,
     "dailyMinutesDown": {
       "2026-03-06": 48
@@ -139,7 +139,7 @@
     "time": 462,
     "timeDay": 343,
     "timeWeek": 320,
-    "timeMonth": 242,
+    "timeMonth": 246,
     "timeYear": 462,
     "dailyMinutesDown": {
       "2025-12-30": 43,
@@ -179,7 +179,7 @@
     "time": 224,
     "timeDay": 215,
     "timeWeek": 181,
-    "timeMonth": 176,
+    "timeMonth": 178,
     "timeYear": 224,
     "dailyMinutesDown": {}
   },
@@ -197,7 +197,7 @@
     "time": 467,
     "timeDay": 145,
     "timeWeek": 133,
-    "timeMonth": 256,
+    "timeMonth": 246,
     "timeYear": 467,
     "dailyMinutesDown": {
       "2025-12-05": 20,
@@ -238,7 +238,7 @@
     "time": 185,
     "timeDay": 117,
     "timeWeek": 163,
-    "timeMonth": 170,
+    "timeMonth": 171,
     "timeYear": 185,
     "dailyMinutesDown": {
       "2025-12-05": 20,
@@ -260,7 +260,7 @@
     "time": 155,
     "timeDay": 142,
     "timeWeek": 156,
-    "timeMonth": 160,
+    "timeMonth": 158,
     "timeYear": 155,
     "dailyMinutesDown": {
       "2025-12-02": 33,
@@ -294,7 +294,7 @@
     "time": 219,
     "timeDay": 134,
     "timeWeek": 159,
-    "timeMonth": 222,
+    "timeMonth": 224,
     "timeYear": 219,
     "dailyMinutesDown": {
       "2025-12-28": 16
@@ -337,7 +337,7 @@
     "time": 409,
     "timeDay": 690,
     "timeWeek": 531,
-    "timeMonth": 444,
+    "timeMonth": 450,
     "timeYear": 409,
     "dailyMinutesDown": {
       "2025-12-02": 33,
@@ -367,7 +367,7 @@
     "time": 225,
     "timeDay": 101,
     "timeWeek": 128,
-    "timeMonth": 137,
+    "timeMonth": 138,
     "timeYear": 225,
     "dailyMinutesDown": {}
   },
@@ -385,7 +385,7 @@
     "time": 1165,
     "timeDay": 234,
     "timeWeek": 167,
-    "timeMonth": 253,
+    "timeMonth": 251,
     "timeYear": 1165,
     "dailyMinutesDown": {
       "2025-12-02": 33,
@@ -420,7 +420,7 @@
     "time": 683,
     "timeDay": 371,
     "timeWeek": 442,
-    "timeMonth": 554,
+    "timeMonth": 548,
     "timeYear": 683,
     "dailyMinutesDown": {
       "2026-01-08": 20,
@@ -449,7 +449,7 @@
     "time": 340,
     "timeDay": 116,
     "timeWeek": 225,
-    "timeMonth": 300,
+    "timeMonth": 293,
     "timeYear": 340,
     "dailyMinutesDown": {
       "2025-12-02": 33,
@@ -483,7 +483,7 @@
     "time": 640,
     "timeDay": 327,
     "timeWeek": 576,
-    "timeMonth": 763,
+    "timeMonth": 769,
     "timeYear": 640,
     "dailyMinutesDown": {
       "2025-12-01": 58,
@@ -521,7 +521,7 @@
     "time": 4833,
     "timeDay": 354,
     "timeWeek": 6079,
-    "timeMonth": 4861,
+    "timeMonth": 4346,
     "timeYear": 4833,
     "dailyMinutesDown": {}
   },
@@ -539,7 +539,7 @@
     "time": 1742,
     "timeDay": 794,
     "timeWeek": 1068,
-    "timeMonth": 1185,
+    "timeMonth": 1173,
     "timeYear": 1742,
     "dailyMinutesDown": {
       "2025-11-29": 16,
@@ -571,7 +571,7 @@
     "time": 407,
     "timeDay": 450,
     "timeWeek": 388,
-    "timeMonth": 351,
+    "timeMonth": 354,
     "timeYear": 407,
     "dailyMinutesDown": {}
   },
@@ -589,7 +589,7 @@
     "time": 512,
     "timeDay": 342,
     "timeWeek": 382,
-    "timeMonth": 487,
+    "timeMonth": 481,
     "timeYear": 512,
     "dailyMinutesDown": {}
   },
@@ -607,7 +607,7 @@
     "time": 440,
     "timeDay": 143,
     "timeWeek": 192,
-    "timeMonth": 1392,
+    "timeMonth": 1423,
     "timeYear": 440,
     "dailyMinutesDown": {
       "2026-02-13": 78,
@@ -629,7 +629,7 @@
     "time": 835,
     "timeDay": 550,
     "timeWeek": 616,
-    "timeMonth": 762,
+    "timeMonth": 752,
     "timeYear": 835,
     "dailyMinutesDown": {
       "2026-04-03": 47
@@ -649,7 +649,7 @@
     "time": 478,
     "timeDay": 347,
     "timeWeek": 481,
-    "timeMonth": 628,
+    "timeMonth": 616,
     "timeYear": 478,
     "dailyMinutesDown": {
       "2025-12-02": 32,
@@ -673,7 +673,7 @@
     "time": 239,
     "timeDay": 183,
     "timeWeek": 207,
-    "timeMonth": 239,
+    "timeMonth": 241,
     "timeYear": 239,
     "dailyMinutesDown": {
       "2026-03-24": 47,
@@ -705,7 +705,7 @@
     "time": 243,
     "timeDay": 177,
     "timeWeek": 133,
-    "timeMonth": 150,
+    "timeMonth": 151,
     "timeYear": 243,
     "dailyMinutesDown": {
       "2025-11-24": 18,
@@ -739,7 +739,7 @@
     "time": 804,
     "timeDay": 211,
     "timeWeek": 530,
-    "timeMonth": 696,
+    "timeMonth": 689,
     "timeYear": 804,
     "dailyMinutesDown": {
       "2025-11-21": 19,
@@ -778,7 +778,7 @@
     "time": 427,
     "timeDay": 338,
     "timeWeek": 286,
-    "timeMonth": 513,
+    "timeMonth": 512,
     "timeYear": 427,
     "dailyMinutesDown": {
       "2025-11-29": 22,
@@ -855,7 +855,7 @@
     "time": 458,
     "timeDay": 263,
     "timeWeek": 260,
-    "timeMonth": 380,
+    "timeMonth": 367,
     "timeYear": 458,
     "dailyMinutesDown": {
       "2025-12-02": 32,
@@ -892,7 +892,7 @@
     "time": 330,
     "timeDay": 208,
     "timeWeek": 350,
-    "timeMonth": 337,
+    "timeMonth": 338,
     "timeYear": 330,
     "dailyMinutesDown": {}
   }
