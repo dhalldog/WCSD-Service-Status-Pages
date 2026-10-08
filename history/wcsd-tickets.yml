@@ -1,7 +1,7 @@
 url: https://ticket.waukeeschools.org/staff/tickets/
-status: up
-code: 200
-responseTime: 701
-lastUpdated: 2026-10-08T02:25:27.401Z
+status: down
+code: 403
+responseTime: 4511
+lastUpdated: 2026-10-08T13:45:09.992Z
 startTime: 2025-11-20T14:46:52.292Z
 generator: Upptime <https://github.com/upptime/upptime>
